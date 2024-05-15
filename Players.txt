@@ -1,0 +1,44 @@
+Soccer     Chicago        Midfield  Ivan       Guerrero     2526  0
+Soccer     Chicago        Defender  C.J.       Brown        2429  1
+Soccer     Chicago        Midfield  Chris      Armas        2366  1
+Soccer     Chicago        Defender  Dasan      Robinson     2054  1
+Soccer     Chicago        Fwd       Nate       Jaqua        2037  8
+Soccer     Chicago        Defender  Gonzalo    Segares      1984  1
+Soccer     Chicago        Midfield  Diego      Gutierrez    1879  2
+Soccer     Chicago        Midfield  Justin     Mapp         1866  2
+Soccer     Chicago        Goalie    Zach       Thornton     2160  0     30
+Soccer     Chicago        Goalie    Matt       Pickens      720   0     11
+Soccer     DC             Midfield  Christian  Gomez        2367  14
+Soccer     DC             Fwd       Jaime      Moreno       2700  11
+Soccer     DC             Fwd       Alecko     Eskandarian  1478  7
+Soccer     DC             Defender  Facundo    Erpen        2626  3
+Soccer     DC             Defender  Joshua     Gros         2576  3
+Soccer     DC             Midfield  Freddy     Adu          2521  2
+Soccer     DC             Midfield  Ben        Olsen        1535  2
+Soccer     DC             Goalie    Troy       Perkins      2700  0     34
+Soccer     DC             Goalie    Nick       Rimando      180   0     4
+Baseball   Diamondbacks   Catcher   Johnny     Estrada      414   125
+Baseball   Diamondbacks   First     Conor      Jackson      485   141
+Baseball   Diamondbacks   Second    Orlando    Hudson       579   166
+Baseball   Diamondbacks   Third     Chad       Tracy        597   168
+Baseball   Diamondbacks   Short     Craig      Counsell     372   95
+Baseball   Diamondbacks   Left      Luis       Gonzalez     586   159
+Baseball   Diamondbacks   Center    Eric       Byrnes       562   150
+Baseball   Diamondbacks   Right     Shawn      Green        417   118
+Baseball   Diamondbacks   Pitcher   Miguel     Batista      60    6     206.3   105
+Baseball   Diamondbacks   Pitcher   Brandon    Webb         73    11    235     81
+Baseball   Diamondbacks   Pitcher   Claudio    Vargas       51    5     167.7   90
+Baseball   Diamondbacks   Pitcher   Enrique    Gonzalez     32    9     106.3   67
+Baseball   Mets           Catcher   Paul       LoDuca       512   163
+Baseball   Mets           First     Carlos     Delgado      524   139
+Baseball   Mets           Second    Jose       Valentin     384   104
+Baseball   Mets           Third     David      Wright       582   181
+Baseball   Mets           Short     Jose       Reyes        647   194
+Baseball   Mets           Left      Cliff      Floyd        332   81
+Baseball   Mets           Center    Carlos     Beltran      510   140
+Baseball   Mets           Right     Xavier     Nady         265   70
+Baseball   Mets           Pitcher   Tom        Glavine      53    9     198     84
+Baseball   Mets           Pitcher   Steve      Trachsel     50    7     164.7   91
+Baseball   Mets           Pitcher   Pedro      Martinez     38    4     132.7   66
+Baseball   Mets           Pitcher   Orlando    Hernandez    35    5     116.7   53
+Baseball   Mets           Pitcher   John       Maine        28    1     90      36
